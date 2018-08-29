@@ -1,14 +1,12 @@
-sdfsdfsfsfsdfsfdsf
-sdfsfdsfsf
-dssdf
-sfsdf
-sdf
-sdf
-sfds
-dfsd
-ss
+subroto 
+chetan
 
+<<<<<<< HEAD
 shweta
 srivastava
 
 likhitha here
+=======
+Hi shweta...I mmerging into rotu
+Chinki loves chintu 
+>>>>>>> SubrotoBranch
