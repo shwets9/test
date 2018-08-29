@@ -1,18 +1,1 @@
-sdfsdfsfsfsdfsfdsf
-sdfsfdsfsf
-dssdf
-sfsdf
-sdf
-sdf
-sfds
-dfsd
-ss
-
-<<<<<<< HEAD
-hello shweta
-=======
-shweta
-srivastava
-
-jethalal champaklal gada 
->>>>>>> origin/SubrotoBranch
+Hi shweta...I mmerging into rotu
