@@ -1,6 +1,5 @@
-<<<<<<< HEAD
 subroto 
 chetan
-=======
+
 Hi shweta...I mmerging into rotu
->>>>>>> dhanyawalaleel
+
