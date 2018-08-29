@@ -11,10 +11,4 @@ ss
 shweta
 srivastava
 
-<<<<<<< HEAD
-hellooo
-hi
-hii
-=======
-hellooolkml,m
->>>>>>> master
+likhitha here
