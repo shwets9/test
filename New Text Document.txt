@@ -8,4 +8,11 @@ sfds
 dfsd
 ss
 
+<<<<<<< HEAD
 hello shweta
+=======
+shweta
+srivastava
+
+jethalal champaklal gada 
+>>>>>>> origin/SubrotoBranch
