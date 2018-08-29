@@ -8,7 +8,11 @@ sfds
 dfsd
 ss
 
+<<<<<<< HEAD
 shweta
 srivastava
 
 jethalal champaklal gada 
+=======
+hello shweta
+>>>>>>> dhanyawalaleel
