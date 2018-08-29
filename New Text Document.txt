@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 sdfsdfsfsfsdfsfdsf
 sdfsfdsfsf
 dssdf
@@ -15,4 +16,7 @@ srivastava
 jethalal champaklal gada 
 =======
 hello shweta
+>>>>>>> dhanyawalaleel
+=======
+Hi shweta...I mmerging into rotu
 >>>>>>> dhanyawalaleel
